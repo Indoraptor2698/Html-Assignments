@@ -1,0 +1,158 @@
+#opening{
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ }
+
+#footballers{
+    color: ghostwhite;
+    font-family: cursive;
+}
+
+#Ronaldo{
+    color: lightblue;
+}
+
+#Messi{
+    color: lightcoral;
+}
+
+#Pele{
+    color: yellow;
+}
+
+#Maradona{
+    color: deepskyblue;
+}
+
+#R9{
+    color: pink;
+}
+
+#Zidane{
+    color: peru;
+}
+
+#Cruyff{
+    color: gold;
+}
+
+#Stefano{
+    color: lightgreen;
+}
+
+#Beckenbauer{
+    color: cyan;
+}
+
+#Modric{
+    color: lightgray;
+}
+
+.fontsizeplayers{
+    font-size: larger;
+   font-family: cursive;
+}
+
+
+
+#clubs{
+    color: white;
+    font-family: monospace;
+}
+
+#RealMadrid{
+    color: lightblue;
+}
+
+#Acmilan{
+    color: lightcoral;
+}
+
+#Liverpool{
+    color: yellow;
+}
+
+#Bayern{
+    color: deepskyblue;
+}
+
+#ManU{
+    color: pink;
+}
+
+#Barcelona{
+    color: peru;
+}
+
+#Ajax{
+    color: gold;
+}
+
+#InterMilan{
+    color: lightgreen;
+}
+
+#Chelsea{
+    color: cyan;
+}
+
+#Mancity{
+    color: lightgray;
+}
+
+.fontsizeclubs{
+    font-size: larger;
+    font-family: monospace;
+}
+
+
+
+#managers{
+    color: white;
+    font-family: fantasy;
+}
+
+#SiralexFeruguson{
+    color: lightblue;
+}
+
+#CarloAncelotti{
+    color: lightcoral;
+}
+
+#PepGuardiola{
+    color: yellow;
+}
+
+#JoseMourinho{
+    color: deepskyblue;
+}
+
+#JurgenKlopp{
+    color: pink;
+}
+
+#ZinedineZidane{
+    color: peru;
+}
+
+#DiegoSimeone{
+    color: gold;
+}
+
+#VicentedelBosque{
+    color: lightgreen;
+}
+
+#LuisEnrique{
+    color: cyan;
+}
+
+#ArseneWenger{
+    color: lightgray;
+}
+
+.fontsizemanagers{
+    font-size: larger;
+    font-family: fantasy;
+}
