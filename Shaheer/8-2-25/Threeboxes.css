@@ -1,0 +1,82 @@
+body {
+    background-color: black;
+}
+
+
+.box {
+   display: inline;
+   color: black;
+   background-color: white ;
+   font-family: fantasy;
+   border-radius:20px 20px 20px 20px ;
+   text-align: center;
+    }
+
+#box1 {
+   height: 400px;
+   width: 220px;
+   max-width: 2000px;
+   max-height: 1000px;
+    }
+
+.img {
+    display: inline;
+    border-radius:20px 20px 0px 0px;
+    width: 220px;
+    height: 150px;
+}
+
+#technology {
+        display: inline;
+        background-color: blue;
+        color: white;
+        border: blue;
+        font-family: monospace;
+        border-radius: 20%;
+    }
+
+#para1 {
+        font-size: small;
+    }
+
+#box2 {
+        height: 400px;
+        width: 220px;
+        max-width: 2000px;
+        max-height: 1000px;
+         }
+
+        
+#popular {
+        display: inline;
+        background-color: darkslateblue;
+        color: white;
+        border: darkslateblue;
+        font-family: monospace;
+        border-radius: 20%;
+    }
+
+#para2 {
+        font-size: small;
+    }
+
+#box3 {
+        height: 400px;
+        width: 220px;
+        max-width: 2000px;
+        max-height: 1000px;
+         }
+
+        
+#design {
+        display: inline;
+        background-color: hotpink;
+        color: white;
+        border: hotpink;
+        font-family: monospace;
+        border-radius: 20%;
+    }
+
+#para3 {
+        font-size: small;
+    }
